@@ -1,6 +1,7 @@
 Create a token
 The goal of this Project is "Initiate a Token" which highlights its functionality for generating tokens in Solidity language through state variables, and subsequently, performing different actions on these tokens such as generating and destroying them.
 
+Description
 This Solidity project involves creating a smart contract capable of performing various operations. The contract includes key details such as the name, abbreviation, and total quantity of the token. It also maps each sender's account address to their account balance. The project includes a minting function that increases both the total token supply and the sender's account balance by a specified amount. Additionally, a burning function is available to decrease both the total token supply and the sender's account balance by a specified amount, provided the sender has sufficient funds.
  
 To develop a similar project, the following functionalities should be implemented:
